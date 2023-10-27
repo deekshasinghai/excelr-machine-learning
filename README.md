@@ -1,1 +1,1 @@
-# excelr-machine-learning
+# excelR-machine-learning
